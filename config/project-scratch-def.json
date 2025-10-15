@@ -1,0 +1,9 @@
+{
+  "orgName": "Care Benefit Verification Project",
+  "edition": "Developer",
+  "features": ["ServiceCloud", "API"],
+  "settings": {
+    "lightningExperienceSettings": { "enableS1DesktopEnabled": true },
+    "mobileSettings": { "enableS1EncryptedStoragePref2": false }
+  }
+}
